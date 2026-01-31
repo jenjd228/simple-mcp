@@ -3,6 +3,7 @@
 *.idea
 *.iml
 *.mvn
+*.target
 # Log file
 *.log
 
